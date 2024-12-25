@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matthewyeo1
 - 👀 I’m interested in software development, travelling & music 🎸
-- 🌱 I’m currently learning the basics of software engineering, multiple programming languages, and very soon, OOP.
-- 💞️ I’m looking to collaborate on fun coding projects as well as startups in the near future
+- 🌱 I’m currently learning the basics of software engineering, multiple programming languages, OOP, mobile & web app development.
+- 💞️ I’m looking to collaborate on fun coding projects, pursue internships as well as work on startups in the near future
 - 📫 How to reach me: gmail -> yeomatthew61@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like cats...a lot!
